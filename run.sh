@@ -1,0 +1,2 @@
+python videomaker.py --path1=/app/unet_IMA_baseline/saved/unet++baseline_without_un1617167396.2658293 --path2=/app/unet_IMA_baseline/saved/unet++What2017_DeeperVar1617160049.5351663 \
+ --gt_path=/data_bleeding/bleeding_syama_mthesis_complete/JPEGImages_blood --img_path=/data_bleeding/bleeding_syama_mthesis_complete/JPEGImages_blood_labels
